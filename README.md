@@ -20,5 +20,5 @@
 - Converting the codebase to an OOP architecture
 - Inclusion of additional perceptron training features such as _'strict_reduce'_ and _'descent_type'_
 - Advancing the graphing/plotting functionality to include intermediate perceptrons
-- Proving a choice a datasets for testing purposes
-- Increasing the verbosity of in-code documentation
+- Providing a choice a datasets for testing purposes
+- Increasing the verbosity of the in-code documentation
